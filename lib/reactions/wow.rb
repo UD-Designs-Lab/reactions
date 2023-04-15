@@ -1,3 +1,5 @@
+require_relative '../reaction'
+
 # module Reactions
 #   class Wow < Reaction
 #     def initialize(value = false)

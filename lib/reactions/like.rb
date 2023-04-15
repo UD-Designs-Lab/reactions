@@ -1,3 +1,5 @@
+require_relative '../reaction'
+
 module Reactions
   class Like < Reaction
     def like=(value)

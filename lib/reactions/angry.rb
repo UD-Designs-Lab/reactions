@@ -1,3 +1,5 @@
+require_relative '../reaction'
+
 module Reactions
   class Angry < Reaction
     def sad=(value)

@@ -1,3 +1,4 @@
+require_relative '../reaction'
 module Reactions
   class Smile < Reaction
     def smile=(value)
